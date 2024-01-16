@@ -20,6 +20,16 @@ body {
     color: #00ff00;
 }
 
+.input-line {
+    display: flex;
+    align-items: center;
+}
+
+.prompt {
+    color: #00ff00;
+    margin-right: 5px;
+}
+
 #input {
     border: none;
     background-color: transparent;
@@ -27,3 +37,5 @@ body {
     outline: none;
     width: 100%;
 }
+
+
